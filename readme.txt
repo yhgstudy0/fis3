@@ -1,1 +1,2 @@
 test dfa
+ok
